@@ -1,6 +1,11 @@
 nome = input("Entre com seu nome: ")
 
-email = input("Entre com seu email: ")
+def entradaEmail():
+	email = input("Entre com seu email: ")
+	return email
+entradaEmail()
+
+
 		
 senha = input("Entre com sua senha: ")
 conf_senha = input("Confirme sua senha: ")
