@@ -15,4 +15,4 @@ if soma == aux:
 else:
 	print("no")			
 
-haha	
+	
