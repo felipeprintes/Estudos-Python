@@ -1,3 +1,5 @@
+#URI ONLINE JUDGE|1267
+#Pascal Library
 s = input()
 n,d = map(int, s.split())
 n = int(n)
